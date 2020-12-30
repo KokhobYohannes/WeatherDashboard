@@ -1,35 +1,45 @@
-h1{
-    font-size: 3rem;
-    align-items: center;
-    background-color: rgb(73, 72, 72);
-    color: white;
-    text-align: center;
-    font-family: 'Playfair Display';
-    font-weight: 500;
-    padding-top: 1%;
-    padding-bottom: 1%;
+body {
+    font-family: 'Gilda Display';
+    font-size: 2rem;
 }
 
 .jumbotron{
-    position: relative;
-    margin-left: 30%;
-    margin-right: 5%;
-    margin-top: 2%;
-    height:20%;
+    border-radius: 0%;
+    margin-left:26%;
+    margin-right:25%;
+    margin-top:1%;
+    border-style: solid;
+    border-color: rgb(108,117,125);
 }
 
-.container{
-    margin-right: 8%;
-    margin-top: 2%;
+h1 {
+    color: white;
+    background-color: rgb(108,117,125);
+    font-family: 'Gilda Display';
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 0.75%;
+    padding: 1%;
 }
 
-#list{
-    margin-top: 2%;
+#lab {
+    color: white;
+    font-size: 2.5rem;
+    margin-bottom:2%;
+    color: black;
 }
 
-#search{
-    width: 500px;
-    align-self: flex-start;
-    margin-left: 2%;
-    margin-top:0%
+p {
+    color: black;
+}
+
+#bot {
+    color: black;
+    margin-top:2%;
+}
+
+#clock{
+    margin-left:36%;
+    margin-right:25%;
+    margin-top: 0.5%;
 }
