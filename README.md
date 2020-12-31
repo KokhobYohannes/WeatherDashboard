@@ -1,3 +1,17 @@
 # WeatherDashboard
 
-In progress
+Objective: 
+
+Goal:
+
+
+Screenshots:
+
+
+Acknowlegements:
+
+
+
+Github Homework link: 
+
+Repository link: 
