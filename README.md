@@ -1,4 +1,4 @@
-# WeatherDashboard
+# Weather Dashboard
 
 Objective: To build a weather dashboard that will display a city's weather conditions and five day forecast.
 
@@ -27,6 +27,6 @@ https://momentjs.com/
 https://openweathermap.org/forecast5#5days 
 
 
-Github Homework link:  https://kokhobyohannes.github.io/WeatherDashboard/
+Deployed link:  https://kokhobyohannes.github.io/WeatherDashboard/
 
 Repository link:  https://github.com/KokhobYohannes/WeatherDashboard
